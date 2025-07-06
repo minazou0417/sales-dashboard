@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# データの読み込み
+# データの読み込み!
 data = pd.read_csv('sales_data.csv')
 
 # Streamlitアプリのタイトル
