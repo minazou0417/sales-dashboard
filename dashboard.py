@@ -6,7 +6,7 @@ import seaborn as sns
 # データの読み込み!
 data = pd.read_csv('sales_data.csv')
 
-# Streamlitアプリのタイトル
+# Streamlitアプリのタイトル!
 st.title('複数のチャートを組み合わせたダッシュボード')
 
 # データの表示
