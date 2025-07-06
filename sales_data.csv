@@ -1,7 +1,8 @@
-Date,Product,Sales
-2023-01-01,Product A,100
-2023-01-01,Product B,150
-2023-01-02,Product A,200
-2023-01-02,Product B,250
-2023-01-03,Product A,300
-2023-01-03,Product B,350
+prefecture,sales
+Tokyo,300
+Osaka,200
+Kanagawa,250
+Aichi,180
+Hokkaido,220
+Fukuoka,150
+Hyogo,170
